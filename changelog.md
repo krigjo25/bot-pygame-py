@@ -1,6 +1,6 @@
 ***Fri, 15.11.24, 23:25***
 
-***0.0.1Alpha***
+***0.0.2Alpha***
 
 - minor bug fixes
 
